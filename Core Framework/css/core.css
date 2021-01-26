@@ -1,0 +1,101 @@
+/* Color Start */
+
+.c-yellow
+{
+    color: yellow;
+}
+.c-green
+{
+    color: green;
+}
+.c-red
+{
+    color: red;
+}
+.c-aqua
+{
+    color: aqua;
+}
+.c-blue
+{
+    color: blue;
+}
+.c-brown
+{
+    color: brown;
+}
+.c-pink
+{
+    color: pink;
+}
+.c-violet
+{
+    color: violet;
+}
+
+/* Color End  */
+
+
+/* Background Color Start */
+
+.bg-yellow
+{
+    background-color: yellow;
+}
+.bg-green
+{
+    background-color: green;
+}
+.bg-red
+{
+    background-color: red;
+}
+.bg-aqua
+{
+    background-color: aqua;
+}
+.bg-blue
+{
+    background-color: blue;
+}
+.bg-black
+{
+    background-color: black;
+}
+.bg-white
+{
+    background-color: white;
+}
+
+/* Background Color End */
+
+/* Text Start*/
+
+.tt-center
+{
+    text-align: center;
+}
+.tt-justify
+{
+    text-align: justify;
+}
+.tt-left
+{
+    text-align: left;
+}
+.tt-right
+{
+    text-align: center;
+}
+.tt-start
+{
+    text-align: start;
+}
+.tt-end
+{
+    text-align: end;
+}
+
+/* Text End */
+
+
